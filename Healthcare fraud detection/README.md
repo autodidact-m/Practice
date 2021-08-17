@@ -4,7 +4,7 @@
 
 IDC study states that 40% of Enteprises in year 2019 will be working to include AI/ML as a part of their transformative strategy. Today, AI/ML is beyond the hype cycle and there are usecases that are providing real business value. 
 
-In this workshop, we will work on a healthcare insurance fraud identification usecase. We will apply machine learning to identify anomalous claims that require further investigation. The technique used in the workshop is broadly applicable to multiple problems fraud, abuse and waste.
+I worked on a healthcare insurance fraud identification usecase. I applied machine learning to identify anomalous claims that require further investigation. The technique used in the workshop is broadly applicable to multiple problems fraud, abuse and waste.
 
 ## **Launch an Amazon SageMaker Jupyter Notebook**
 
@@ -27,13 +27,6 @@ In this workshop, we will work on a healthcare insurance fraud identification us
 9. Remember the name of your notebook instance and Click **Open Jupyter** for your notebook.![Notebook In Service](./images/notebook-inservice.png)
 10. Validate your data and notebook cloned from Git Repo![Validate Git Clone](./images/validate-git-clone.png)
 
-## **Finish your Lab in Jupyter Notebook**
-1. Click on **healthcare-fraud-identification-using-PCA-anomaly-detection.ipynb** and start working. From here onwards all the instruction will be in the Jupyter Notebook. Come back after you have completed all the steps in the Jupyter Notebook and finish rest of the steps as suggested below.
-
-
-## Finish
-1. **Congratulations!** 
-2. Please make sure to delete all resources as mentioned in the section below.
 
 
 ## Cleanup Resources
